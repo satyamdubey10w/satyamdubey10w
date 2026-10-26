@@ -18,6 +18,6 @@ I'm a first-year **B.Tech Computer Science Engineering** student passionate abou
 ---
 
 ### 📊 GitHub Stats:
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&hide_border=true)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamdubey10w$show_icons=true&theme=radical&hide_border=true)
 
 ---
